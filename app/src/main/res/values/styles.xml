@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Copyright (c) 2024 Ashif Ahmed Shuvo
+    LinkedIn: https://linkedin.com/in/me-aas/
+    GitHub: https://github.com/myself-aas
+    Open to Collaborate on innovative projects and research in AI, ML, and related fields.
+    Licensed under the MIT License.
+-->
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="Theme.OrangeClassification" parent="Theme.AppCompat.Light.NoActionBar">
+    </style>
+
+    <style name="BottomSheetSpinnerItemStyle" parent="Widget.AppCompat.Light.DropDownItem.Spinner">
+        <item name="android:textSize">@dimen/bottom_sheet_text_size</item>
+    </style>
+</resources>

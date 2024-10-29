@@ -1,0 +1,16 @@
+// Top-level build file where you can add configuration options common to all sub-projects/modules.
+buildscript {
+    dependencies {
+        classpath libs.navigation.safe.args.gradle.plugin  // Updated Navigation version
+        classpath libs.gradle.download.task  // Latest version for download task plugin
+    }
+}
+
+plugins {
+    id 'com.android.application' version '8.7.1' apply false  // Updated AGP version for Android Studio Giraffe
+    id 'com.android.library' version '8.7.1' apply false  // Updated for library module compatibility
+}
+
+task clean(type: Delete) {
+    delete rootProject.buildDir
+}
