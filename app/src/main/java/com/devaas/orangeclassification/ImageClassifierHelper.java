@@ -45,8 +45,12 @@ public class ImageClassifierHelper {
     private static final int DELEGATE_GPU = 1;
     private static final int DELEGATE_NNAPI = 2;
 
-    private static final int MY_CUSTOM_MODEL = 0;
-    private static final int MY_CUSTOM_QUANT_MODEL = 1;
+    private static final int EINSTEINNET = 0;
+    private static final int RESNET50 = 1;
+    private static final int DENSENET121 = 2;
+    private static final int GOOGLE_TEACHABLE_MACHINE = 3;
+    private static final int MOBILENETV2 = 4;
+    private static final int NASNETMOBILE = 5;
 
     private float threshold;
     private int numThreads;
@@ -150,14 +154,26 @@ public class ImageClassifierHelper {
         String modelName;
         switch (currentModel) {
 
-            case MY_CUSTOM_MODEL:
-                modelName = "model.tflite";
+            case EINSTEINNET:
+                modelName = "EinsteinNet_quantized.tflite";
                 break;
-            case MY_CUSTOM_QUANT_MODEL:
-                modelName = "model_quant.tflite";
+            case RESNET50:
+                modelName = "ResNet50_quantized.tflite";
+                break;
+            case DENSENET121:
+                modelName = "DenseNet121_quantized.tflite";
+                break;
+            case GOOGLE_TEACHABLE_MACHINE:
+                modelName = "Google_Teachable_machine_quantized.tflite";
+                break;
+            case MOBILENETV2:
+                modelName = "MobileNetV2_quantized.tflite";
+                break;
+            case NASNETMOBILE:
+                modelName = "NASNetMobile_quantized.tflite";
                 break;
             default:
-                modelName = "model.tflite";
+                modelName = "EinsteinNet_quantized.tflite";
         }
         try {
             imageClassifier =

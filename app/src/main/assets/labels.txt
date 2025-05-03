@@ -1,5 +1,5 @@
-Fresh
-Blackspot
-Canker
-Greening
-Rotten
+blackspotted_orange
+cankered_orange
+fresh_orange
+green_orange
+rotten_orange

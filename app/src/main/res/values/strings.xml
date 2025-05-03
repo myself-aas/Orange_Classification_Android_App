@@ -40,7 +40,11 @@
     </string-array>
 
     <string-array name="models_spinner_titles">
-        <item>Float Model</item>
-        <item>Quantized Model</item>
+        <item>EINSTEINNET</item>
+        <item>RESNET50</item>
+        <item>DENSENET121</item>
+        <item>GOOGLE TEACHABLE MACHINE</item>
+        <item>MOBILENETV2</item>
+        <item>NASNETMOBILE</item>
     </string-array>
 </resources>
