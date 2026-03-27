@@ -104,11 +104,6 @@ A5: Detailed information about the machine learning model can be found in the  `
 [![GitHub](https://img.shields.io/badge/GitHub-Visit_repo-lightgrey.svg)](https://github.com/myself-aas)
 
 
-## Support
-
-For support, email shuvoasifahmed@gmail.com.
-
-
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
