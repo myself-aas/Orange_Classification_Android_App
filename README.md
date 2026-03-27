@@ -92,10 +92,6 @@ A4: Contributions are welcome! Please fork the repository, make your changes, an
 **Q5: Where can I find more information about the machine learning model?**  
 A5: Detailed information about the machine learning model can be found in the  `inline comments` within the code.
 
-## Authors
-
-- [Ashif Ahmed Shuvo](https://github.com/myself-aas)
-
 
 ## Badges
 
@@ -116,3 +112,29 @@ For support, email shuvoasifahmed@gmail.com.
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+## 👨‍💻 Author
+
+<div align="center">
+
+### Ashif Ahmed Shuvo
+**Machine Learning Enthusiast · AI & Food Engineering Researcher**
+
+*AI & ML expert with a B.Sc. in Food Engineering, specializing in precision and sustainable agriculture and agricultural automation. Experienced in computer vision for object detection & recognition, IoT-based smart farming solutions, and data-driven decision-making for monitoring and optimization. Passionate about integrating AI, remote sensing, and sensor-based technologies to enhance sustainable agriculture and horticulture research.*
+
+---
+
+[![GitHub](https://img.shields.io/badge/GitHub-myself--aas-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/myself-aas/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-me--aas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/me-aas/)
+[![Email](https://img.shields.io/badge/Email-shuvo.1807016@bau.edu.bd-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shuvo.1807016@bau.edu.bd)
+[![Phone](https://img.shields.io/badge/Phone-+8801985531180-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+8801985531180)
+
+</div>
+
+---
+
+<div align="center">
+
+*Built with 🌾 for food security research in Bangladesh*
+
+</div>
