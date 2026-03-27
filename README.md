@@ -61,20 +61,6 @@ Test the app on various devices to ensure compatibility and functionality.
 
 `This section provides clear, step-by-step instructions for deploying your app, making it easier for users to get started.`
 
-
-# Hi, I'm Ashif A.! 👋
-
-
-## 🚀 About Me
-I am Ashif Ahmed Shuvo, a passionate Android developer with a keen interest in artificial intelligence and machine learning. My goal is to leverage technology to create innovative solutions that enhance everyday experiences. With a strong foundation in programming and a commitment to continuous learning, I strive to contribute to impactful projects.
-
-
-
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://myself-aas.github.io/portfolio/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/me-aas/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/myself_aas)
-
 ## FAQ
 
 **Q1: What is the purpose of the Orange Classification app?**  
